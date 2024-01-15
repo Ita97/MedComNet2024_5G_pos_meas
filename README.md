@@ -1,6 +1,6 @@
 # 5G Positioning Raw Measurement Dataset 
 This repository contains datasets of 5G positioning measurements simulated in a realistic environment using a Matlab raytracer tool.
-These measurements are analyzed in a paper submitted to MedComNet 2024, which will be held in June 2024 in Nizza, France.
+These measurements are analyzed in a paper submitted to MedComNet 2024, which will be held on June 2024 in Nizza, France.
 
 Each row of the datasets is composed of the following:
 - Base Station (BS) coordinates (x, y, z)
