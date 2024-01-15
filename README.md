@@ -9,7 +9,7 @@ Each row of the datasets is composed of the following:
 - Timestamp of measurement acquisition (1-100)
 
 For each UE position, 100 Monte-Carlo simulations are performed. The timestamp indicates in which Monte-Carlo simulation the measurement is acquired.
-The first BS for each timestamp is the reference BS used to compute the TDOA, therefore, no TDOA measurement is shown for that BS.
+The first BS for each timestamp is the reference BS used to compute the TDOA; therefore, no TDOA measurement is shown for that BS.
 <p align="center">
   <img src="https://github.com/Ita97/ICASSP2024_5G_pos_meas/assets/28793450/95bd75bd-5e05-445e-b456-8e47111b804e"  width="500"  /></center>
 </p>
